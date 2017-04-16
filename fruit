@@ -1,0 +1,58 @@
+6,83.01,0.29,0.36,0.64,2.59,1.43,1.16,13.11,261,"Apple, big (Malus domestica)"
+6,85.54,0.46,0.31,0.50,2.54,1.72,0.81,10.65,214,"Apple, green (Malus domestica)"
+6,82.91,0.31,0.24,0.53,2.06,1.44,0.62,13.95,267,"Apple, small (Malus domestica)"
+1,82.79,0.27,0.29,0.6,2.07,1.53,0.54,13.99,269,"Apple, small, Kashmir (Malus sylvestris)"
+6,16.68,3.17,3.46,0.74,3.32,2.72,0.60,72.63,1321,"Apricot, dried (Prunus armeniaca)"
+3,85.75,1.47,0.61,0.64,0.59,0.43,0.16,10.93,236,"Apricot, processed (Prunus armeniaca)"
+1,73.56,2.95,1.19,13.86,6.69,5.26,1.42,1.75,604,Avocado fruit (Persea americana)
+1,61.36,2.63,0.91,0.57,6.31,3.31,3,28.21,569,Bael fruit (Aegle marmelos)
+1,70.13,1.25,1.15,0.32,2.21,1.43,0.78,24.95,463,"Banana, ripe, montham (Musa x paradisiaca)"
+2,71.32,1.49,1.09,0.35,2.33,1.29,1.04,23.41,445,"Banana, ripe, poovam (Musa x paradisiaca)"
+1,70.28,1.29,0.95,0.29,1.98,1.26,0.72,25.21,467,"Banana, ripe, red (Musa x paradisiaca)"
+6,71.93,1.23,0.94,0.33,1.94,1.23,0.71,23.63,440,"Banana, ripe, robusta (Musa x paradisiaca)"
+5,82.94,0.92,0.52,0.63,4.35,3.44,0.91,10.64,227,Black berry (Rubus fruticosus)
+4,83.61,1.49,0.45,0.46,2.12,1.35,0.78,11.87,250,"Cherries, red (Prunus cerasus)"
+1,83.27,1.51,0.69,0.53,4.07,2.43,1.64,9.93,227,"Currants, black (Ribes nigrum)"
+1,71.55,1.62,0.68,0.67,5.1,3.17,1.93,20.38,414,Custard apple (Annona squamosa)
+6,11.14,2.45,2.20,0.35,8.95,7.53,1.42,74.91,1340,"Dates, dry, pale brown (Phoenix dactylifera)"
+2,13.13,2.38,2.39,0.35,9.1,7.57,1.53,72.67,1301,"Dates, dry, dark brown (Phoenix dactylifera)"
+2,22.01,1.18,1.93,0.41,6.52,5.68,0.84,67.95,1197,"Dates, processed (Phoenix dactylifera)"
+6,75.60,2.03,1.08,0.37,4.64,2.59,2.05,16.28,341,Fig (Ficus carica)
+5,87.02,0.34,0.34,0.16,7.75,6.20,1.55,4.39,99,Goosberry (Emblica officinalis)
+4,83.88,0.76,0.46,0.32,1.35,0.82,0.52,13.23,254,"Grapes, seeded, round, black (Vitis vinifera)"
+5,85.07,0.77,0.43,0.29,1.25,0.81,0.44,12.19,235,"Grapes, seeded, round, green (Vitis vinifera)"
+5,84.46,0.95,0.48,0.29,1.28,0.85,0.43,12.55,244,"Grapes, seeded, round, red (Vitis vinifera)"
+5,75.30,1.41,0.70,0.46,1.64,0.98,0.66,20.48,395,"Grapes, seedless, oval, black (Vitis vinifera)"
+5,85.55,0.62,0.47,0.26,1.28,0.85,0.44,11.81,224,"Grapes, seedless, round, green (Vitis vinifera)"
+5,76.90,1.24,0.49,0.35,1.15,0.83,0.32,19.86,374,"Grapes, seedless, round, black (Vitis vinifera)"
+5,83.79,1.44,0.72,0.32,8.59,7.14,1.45,5.13,135,"Guava, white flesh (Psidium guajava)"
+5,81.22,1.19,0.81,0.25,7.39,6.12,1.28,9.14,195,"Guava, pink flesh (Psidium guajava)"
+5,78.56,2.74,0.91,0.15,3.62,2.21,1.41,14.01,302,"Jack fruit, ripe (Artocarpus heterophyllus)"
+2,83.33,0.82,0.31,0.17,3.07,2.4,0.67,12.3,235,"Jambu fruit, ripe (Syzygium cumini)"
+1,86.04,1.15,1.02,1.67,7.25,5.87,1.38,2.87,141,Karonda fruit (Carissa carandas)
+6,91.59,0.41,0.28,0.75,0,0,0,6.97,153,"Lemon, juice (Citrus limon)"
+6,91.32,0.76,0.47,0.20,2.07,1.33,0.74,5.18,114,"Lime, sweet,pulp (Citrus limetta)"
+4,85.56,0.99,0.44,0.26,1.34,0.81,0.53,11.41,225,Litchi (Nephelium litchi)
+6,88.44,0.54,0.42,0.55,1.88,1.01,0.87,8.18,175,"Mango, ripe, banganapalli (Mangifera indica)"
+2,86.65,0.52,0.32,0.53,1.67,1.03,0.64,10.32,209,"Mango, ripe, gulabkhas (Mangifera indica)"
+3,88.04,0.46,0.38,0.54,1.55,0.82,0.73,9.03,187,"Mango, ripe, himsagar (Mangifera indica)"
+4,85.07,0.54,0.44,0.57,2.02,1.09,0.93,11.36,231,"Mango, ripe, kesar (Mangifera indica)"
+2,88.41,0.68,0.38,0.55,1.77,0.97,0.79,8.21,178,"Mango, ripe, neelam (Mangifera indica)"
+2,87.69,0.68,0.42,0.58,1.97,0.99,0.98,8.67,188,"Mango, ripe, paheri (Mangifera indica)"
+1,84.14,0.41,0.47,0.49,1.73,0.95,0.78,12.75,248,"Mango, ripe, totapari (Mangifera indica)"
+1,85.52,0.63,0.33,0.24,1.87,1.23,0.64,11.41,219,Mangosteen (Garcinia mangostana)
+1,74.54,3.56,2.82,1.14,4.4,3.3,1.1,13.54,342,Manila tamarind (Pithecellobium dulce)
+5,92.97,0.42,0.52,0.35,1.51,0.84,0.67,4.24,97,"Musk melon, orange flesh (Cucumis melon)"
+6,91.84,0.53,0.48,0.26,1.49,0.79,0.70,5.40,116,"Musk melon, yellow flesh (Cucumis melon)"
+6,89.61,0.70,0.36,0.13,1.29,0.73,0.56,7.92,156,"Orange, pulp (Citrus aurantium)"
+1,91.93,0.5,0.13,0.12,2.4,1.87,0.53,4.92,101,"Palm fruit, tender (Borassus flabellifer)"
+6,91.47,0.42,0.51,0.16,2.83,1.75,1.08,4.61,100,"Papaya, ripe (Carcia papaya)"
+1,88.31,0.86,0.51,0.37,2.13,1.22,0.91,7.82,168,Peach (Prunus communis)
+6,86.49,0.36,0.32,0.27,4.48,4.02,0.46,8.09,157,Pear (Pyrus sp.)
+2,77.48,1.66,1.09,0.14,4.54,3.44,1.09,15.09,299,Phalsa (Grewia asiatica)
+6,86.06,0.52,0.38,0.16,3.46,2.88,0.59,9.42,180,Pineapple   (Ananas comosus)
+3,84.44,0.64,0.35,0.40,2.07,1.23,0.84,12.10,238,Plum (Prunus domestica)
+6,83.55,1.33,0.57,0.15,2.83,2.26,0.57,11.58,229,"Pomegranate, maroon seeds (Punica granatum)"
+3,86.97,0.68,0.49,0.42,0.80,0.49,0.31,10.64,210,Pummelo (Citrus maxima)
+6,19.69,2.57,2.19,0.34,3.92,2.55,1.37,71.29,1279,"Raisins, dried, black (Vitis vinifera)"
+6,21.50,2.76,2.04,0.35,4.56,3.04,1.53,68.79,1241,"Raisins, dried, golden (Vitis vinifera)"
