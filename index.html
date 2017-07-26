@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <title>Welcome to nutri.com!</title>
+  </head>
+  <body>
+    <h1>
+  
+   
+
+
+                                          ............... WELCOME NUTRITIONIST.............. 
+
+
+
+   </h1>
+
+  <form action="nutri.php" method="get">
+  <div class="friend2title">
+    <label for="url">Enter 1.fruit 2.cereal 3.nuts 4.protein 5.root:</label>
+</div> 
+<div class="friend2field">
+    <input name="op" type="number" id="state" maxlength="150">
+ </div>
+
+
+ <div class="friend2title">
+    <label for="url">Enter number of parameters:</label>
+</div> 
+<div class="friend2field">
+    <input name="par" type="number" id="state" maxlength="150">
+</div>
+
+
+
+   
+
+
+<input type="button" onclick="add_input_fields();" value="Add Input Field for nutritional parameters" />
+   
+    <div id="room_fileds"><div>
+    <script type="text/javascript">
+		var room = 1;
+		function add_input_fields() {
+			room++;
+			var objTo = document.getElementById('room_fileds')
+			var divtest = document.createElement("div");
+			divtest.innerHTML = '<div class="label">Label ' + room +':</div><div class="content"><span><input name="nut[]" type="number" step="0.01" name="width[]" value="" /></span></div>';
+			objTo.appendChild(divtest)
+		}
+    </script>
+<input type="submit">
+</form>
+</body>
+</html>
+
